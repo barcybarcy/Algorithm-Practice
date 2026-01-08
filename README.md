@@ -1,6 +1,3 @@
-# Algorithm-Practice
-Algorithm practice
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
